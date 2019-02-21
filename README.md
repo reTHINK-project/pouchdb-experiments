@@ -1,4 +1,4 @@
-pouchdb-getting-started-todo
+pouchdb-experiments
 ============================
 
-The source repository for the getting started tutorial for PouchDB
+The source repository PouchDB experiments
